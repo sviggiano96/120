@@ -1,3 +1,4 @@
+import java.util.Scanner;
 /*
 *Sherry Viggiano
 *ISTE 120-02
@@ -10,29 +11,24 @@ import java.util.Scanner;
 
 public class MonthTester{
 
-String category;
-int _month;
+
+
 
   public static void main(String[] args){
-   new Month();
-  } 
+     int num;     
+     String monthName = new String("JanuaryZZFebruaryZMarchZZZZAprilZZZZMayZZZZZZJuneZZZZZJulyZZZZZAugustZSeptemberOctoberZZNovemberZDecemberZ");
    
+    //monthName = monthName.substring(start, end);
 
-
-
-  // public Month(){
-     
-      Month lab = new Month();
       Scanner scan = new Scanner(System.in);
    
       System.out.print("Enter the month number (1 - 12):");
-      month = scan.nextInt();
-       category = _month; 
-   
-      System.out.print("The month is:" + getName());
+      num = scan.nextInt();
 
+            
+      monthName.getSubstring(num);      
+      new Month();
 
+ 
 }
-
-
 }

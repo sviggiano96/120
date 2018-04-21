@@ -26,8 +26,8 @@ public class TestTimeInterval{
    testTime.getMinutes();
    testTime.getDecimalTime();
    
-   System.out.print("Elaspsed time in hrs/min: " + testTime.getHours() + "hours " );   
-   System.out.println(testTime.getMinutes() + "minutes");
+   System.out.print("Elaspsed time in hrs/min: " + testTime.getHours() + " hours " );   
+   System.out.println(testTime.getMinutes() + " minutes");
    System.out.print("Elapsed time in decimal: " + testTime.getDecimalTime());
    
    
