@@ -6,11 +6,9 @@ public class Lab01Ex3Viggiano {
    
    
  Circle myCircle = new Circle (20, 60, 30);
- myCircle.setColor(Color.blue);
  System.out.println("My Circle:" + myCircle);
  canvas.draw(myCircle);   
- 
- myCircle.setXInt(myCircle.getXInt()+150);
+getColor.myCircle = blue;
   
    
    }
