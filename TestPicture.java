@@ -1,8 +1,3 @@
-
-
-
-
-
 import java.awt.*;
 /**
  * ISTE 120-01
@@ -14,14 +9,16 @@ import java.awt.*;
  */
 
 
-public class TestPicture 
+public class TestPicture
 {
     
-   public static void main(String[] args) // main method
-   {
+  // public static void main(String[] args)
    
-       Picture picture = new Picture(); // constructor 
-       picture.draw();  // calling draw method
-   }
    
-} 
+       TestPicture picture = new TestPicture();
+       //nethod, what it is and what it is going to do
+         picture.canvas.draw(roof);      
+   
+     
+
+}   
