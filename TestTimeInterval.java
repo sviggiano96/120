@@ -1,5 +1,5 @@
 /*
-*Sherry Viggiano
+*
 *ISTE 120-02
 *Lab 6 ex1
 */
