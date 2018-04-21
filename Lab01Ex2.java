@@ -1,6 +1,6 @@
 /*
  *ISTE 120-01 
- *@author Sherry Viggiano
+ *@author 
  *January 22, 2018
  */
  
