@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*
-*Sherry Viggiano
+*
 *ISTE 120-02
 *Lab 6 ex2
 */
